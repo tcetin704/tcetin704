@@ -17,5 +17,5 @@
 ---
 
 📫 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taha-çetin-361749277) --------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taha-çetin-361749277) |    |
                      e-mail-> tcetin704@gmail.com
