@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌟 Hey there, I'm Taha!
 
-<!--
-**tcetin704/tcetin704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity Engineer | Detection Engineering | Blue/Red Team Labs  | SOC
+🔍 Currently working on: **CVE-2017-12611 Exploit & Detection Lab**
 
-Here are some ideas to get you started:
+###  Tech Stack
+- **Languages:** Python, C, Bash, SQL  
+- **Tools:** Splunk, Wireshark, Docker, VMware, Kali Linux  
+- **Focus:** Attack Simulation & Detection Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Current Projects
+- [CVE-2017-12611 Lab](https://github.com/tcetin704/CVE-2017-12611)  
+  Exploitation → Detection → Monitoring workflow using Splunk & Wireshark  
+- [BLM2537 Project](https://github.com/tcetin704/BLM2537-PROJE)  
+  Frontend web project (HTML-based fan page demo)
+
+---
+
+📫 **Connect with me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taha-çetin-361749277)
+e-mail-> tcetin704@gmail.com
